@@ -524,3 +524,4 @@ C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\refint\BanHo
 C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\BanHoaChat.pdb
 C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\BanHoaChat.genruntimeconfig.cache
 C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\ref\BanHoaChat.dll
+C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\BanHoaChat.sourcelink.json

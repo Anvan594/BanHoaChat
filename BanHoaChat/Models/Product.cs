@@ -25,6 +25,8 @@ public partial class Product
     public DateTime? UpdatedAt { get; set; }
     public bool? Status { get; set; } = true;
     public bool? StatusPrice { get; set; } = true;
+    [Display(Name = "Lượt Xem")]
+    public int ViewCount { get; set; } = 0;
     public virtual ICollection<CartItem> CartItems { get; set; } = new List<CartItem>();
     [Display(Name = "Danh Mục")]
     public virtual Category? Category { get; set; }

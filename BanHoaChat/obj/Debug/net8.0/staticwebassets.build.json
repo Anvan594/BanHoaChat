@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vM15J3NvKcQASLRsOmUsIdCFUQN8ncIkFqZ+HzVi5eU=",
+  "Hash": "BAutT0Q2UBHAyzO71CRvNCT20JXhLb5qwhX7BGQAjOc=",
   "Source": "BanHoaChat",
   "BasePath": "_content/BanHoaChat",
   "Mode": "Default",
@@ -8667,6 +8667,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Products\\28255f8e-c2bb-4a67-93b3-a4ea513fa150.png"
+    },
+    {
+      "Identity": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\2de477fb-a919-49c9-91b2-7bf33c5535b2.png",
+      "SourceId": "BanHoaChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\",
+      "BasePath": "_content/BanHoaChat",
+      "RelativePath": "Images/Products/2de477fb-a919-49c9-91b2-7bf33c5535b2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4h5pbew1fv",
+      "Integrity": "+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\2de477fb-a919-49c9-91b2-7bf33c5535b2.png"
+    },
+    {
+      "Identity": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\443fe7b6-2860-4622-88ed-36ca6daa49f1.png",
+      "SourceId": "BanHoaChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\",
+      "BasePath": "_content/BanHoaChat",
+      "RelativePath": "Images/Products/443fe7b6-2860-4622-88ed-36ca6daa49f1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4h5pbew1fv",
+      "Integrity": "+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\443fe7b6-2860-4622-88ed-36ca6daa49f1.png"
+    },
+    {
+      "Identity": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\66ada44b-4edc-4709-aff2-7fad3b921e59.png",
+      "SourceId": "BanHoaChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\",
+      "BasePath": "_content/BanHoaChat",
+      "RelativePath": "Images/Products/66ada44b-4edc-4709-aff2-7fad3b921e59#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n0cbzkkyvb",
+      "Integrity": "l6SKy8W+WythSpHGHc9QXtur/2WpySpKwlCCvlxNMpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\66ada44b-4edc-4709-aff2-7fad3b921e59.png"
+    },
+    {
+      "Identity": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\94d7db37-08fe-4bb4-860c-af1a78920fda.jpg",
+      "SourceId": "BanHoaChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\",
+      "BasePath": "_content/BanHoaChat",
+      "RelativePath": "Images/Products/94d7db37-08fe-4bb4-860c-af1a78920fda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2elzs0iv2",
+      "Integrity": "gK1BTQVlb35LhwsgJ9tqnePyxVx1y1Fz3ERwJAf50BA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\94d7db37-08fe-4bb4-860c-af1a78920fda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\a2b8190f-c619-44e4-ac97-6345691ce286.png",
+      "SourceId": "BanHoaChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\",
+      "BasePath": "_content/BanHoaChat",
+      "RelativePath": "Images/Products/a2b8190f-c619-44e4-ac97-6345691ce286#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "atwby57o4i",
+      "Integrity": "In9vUYv0+MWRsOFpMCaJnSLi5uswsbjohQp2zKLPDT4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\a2b8190f-c619-44e4-ac97-6345691ce286.png"
+    },
+    {
+      "Identity": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\daa8438c-0729-4573-ae3a-280404bf9f4b.png",
+      "SourceId": "BanHoaChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\",
+      "BasePath": "_content/BanHoaChat",
+      "RelativePath": "Images/Products/daa8438c-0729-4573-ae3a-280404bf9f4b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qnfdx9uu4e",
+      "Integrity": "eoqtE8WQ5cupyV15xsDSizUuMmMeHHgq6mR9K83oMY4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\daa8438c-0729-4573-ae3a-280404bf9f4b.png"
+    },
+    {
+      "Identity": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\dfde378c-717d-4548-aecb-30d92b670cd8.png",
+      "SourceId": "BanHoaChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\",
+      "BasePath": "_content/BanHoaChat",
+      "RelativePath": "Images/Products/dfde378c-717d-4548-aecb-30d92b670cd8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b4uy6effmm",
+      "Integrity": "BcWiux1tCUTT50g4HVOLtSBFXHB6YpX55GNOdl05MYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\dfde378c-717d-4548-aecb-30d92b670cd8.png"
     },
     {
       "Identity": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\js\\site.js",
@@ -43659,6 +43806,580 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 08 Jul 2025 10:19:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BcWiux1tCUTT50g4HVOLtSBFXHB6YpX55GNOdl05MYI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2de477fb-a919-49c9-91b2-7bf33c5535b2.4h5pbew1fv.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\2de477fb-a919-49c9-91b2-7bf33c5535b2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4h5pbew1fv"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/2de477fb-a919-49c9-91b2-7bf33c5535b2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/2de477fb-a919-49c9-91b2-7bf33c5535b2.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\2de477fb-a919-49c9-91b2-7bf33c5535b2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/443fe7b6-2860-4622-88ed-36ca6daa49f1.4h5pbew1fv.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\443fe7b6-2860-4622-88ed-36ca6daa49f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 11:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4h5pbew1fv"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/443fe7b6-2860-4622-88ed-36ca6daa49f1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/443fe7b6-2860-4622-88ed-36ca6daa49f1.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\443fe7b6-2860-4622-88ed-36ca6daa49f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 11:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/66ada44b-4edc-4709-aff2-7fad3b921e59.n0cbzkkyvb.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\66ada44b-4edc-4709-aff2-7fad3b921e59.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l6SKy8W+WythSpHGHc9QXtur/2WpySpKwlCCvlxNMpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 11:55:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0cbzkkyvb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/66ada44b-4edc-4709-aff2-7fad3b921e59.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l6SKy8W+WythSpHGHc9QXtur/2WpySpKwlCCvlxNMpc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/66ada44b-4edc-4709-aff2-7fad3b921e59.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\66ada44b-4edc-4709-aff2-7fad3b921e59.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l6SKy8W+WythSpHGHc9QXtur/2WpySpKwlCCvlxNMpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 11:55:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l6SKy8W+WythSpHGHc9QXtur/2WpySpKwlCCvlxNMpc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/94d7db37-08fe-4bb4-860c-af1a78920fda.jpg",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\94d7db37-08fe-4bb4-860c-af1a78920fda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gK1BTQVlb35LhwsgJ9tqnePyxVx1y1Fz3ERwJAf50BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 11:30:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gK1BTQVlb35LhwsgJ9tqnePyxVx1y1Fz3ERwJAf50BA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/94d7db37-08fe-4bb4-860c-af1a78920fda.o2elzs0iv2.jpg",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\94d7db37-08fe-4bb4-860c-af1a78920fda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gK1BTQVlb35LhwsgJ9tqnePyxVx1y1Fz3ERwJAf50BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 11:30:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2elzs0iv2"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/94d7db37-08fe-4bb4-860c-af1a78920fda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gK1BTQVlb35LhwsgJ9tqnePyxVx1y1Fz3ERwJAf50BA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/a2b8190f-c619-44e4-ac97-6345691ce286.atwby57o4i.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\a2b8190f-c619-44e4-ac97-6345691ce286.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"In9vUYv0+MWRsOFpMCaJnSLi5uswsbjohQp2zKLPDT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 11:30:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "atwby57o4i"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/a2b8190f-c619-44e4-ac97-6345691ce286.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-In9vUYv0+MWRsOFpMCaJnSLi5uswsbjohQp2zKLPDT4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/a2b8190f-c619-44e4-ac97-6345691ce286.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\a2b8190f-c619-44e4-ac97-6345691ce286.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"In9vUYv0+MWRsOFpMCaJnSLi5uswsbjohQp2zKLPDT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 11:30:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-In9vUYv0+MWRsOFpMCaJnSLi5uswsbjohQp2zKLPDT4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/daa8438c-0729-4573-ae3a-280404bf9f4b.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\daa8438c-0729-4573-ae3a-280404bf9f4b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "400709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eoqtE8WQ5cupyV15xsDSizUuMmMeHHgq6mR9K83oMY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:26:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eoqtE8WQ5cupyV15xsDSizUuMmMeHHgq6mR9K83oMY4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/daa8438c-0729-4573-ae3a-280404bf9f4b.qnfdx9uu4e.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\daa8438c-0729-4573-ae3a-280404bf9f4b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "400709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eoqtE8WQ5cupyV15xsDSizUuMmMeHHgq6mR9K83oMY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:26:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qnfdx9uu4e"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/daa8438c-0729-4573-ae3a-280404bf9f4b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eoqtE8WQ5cupyV15xsDSizUuMmMeHHgq6mR9K83oMY4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/dfde378c-717d-4548-aecb-30d92b670cd8.b4uy6effmm.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\dfde378c-717d-4548-aecb-30d92b670cd8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BcWiux1tCUTT50g4HVOLtSBFXHB6YpX55GNOdl05MYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:26:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b4uy6effmm"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/dfde378c-717d-4548-aecb-30d92b670cd8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BcWiux1tCUTT50g4HVOLtSBFXHB6YpX55GNOdl05MYI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/dfde378c-717d-4548-aecb-30d92b670cd8.png",
+      "AssetFile": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\dfde378c-717d-4548-aecb-30d92b670cd8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BcWiux1tCUTT50g4HVOLtSBFXHB6YpX55GNOdl05MYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:26:07 GMT"
         },
         {
           "Name": "Cache-Control",
