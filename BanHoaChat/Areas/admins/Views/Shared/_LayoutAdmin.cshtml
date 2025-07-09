@@ -1,0 +1,270 @@
+﻿
+<head>
+    <title>Home | Datta Able Dashboard Template</title>
+    <!-- [Meta] -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description"
+          content="Datta Able is trending dashboard template made using Bootstrap 5 design framework. Datta Able is available in Bootstrap, React, CodeIgniter, Angular,  and .net Technologies." />
+    <meta name="keywords"
+          content="Bootstrap admin template, Dashboard UI Kit, Dashboard Template, Backend Panel, react dashboard, angular dashboard" />
+    <meta name="author" content="CodedThemes" />
+
+    <!-- [Favicon] icon -->
+    <link rel="icon" href="~/assets/images/logo.png" type="image/x-icon" />
+
+    <!-- [Font] Family -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+    <!-- [phosphor Icons] https://phosphoricons.com/ -->
+    <link rel="stylesheet" href="~/assets/fonts/phosphor/duotone/style.css" />
+    <!-- [Tabler Icons] https://tablericons.com -->
+    <link rel="stylesheet" href="~/assets/fonts/tabler-icons.min.css" />
+    <!-- [Feather Icons] https://feathericons.com -->
+    <link rel="stylesheet" href="~/wwwroot/assets/fonts/feather.css" />
+    <!-- [Font Awesome Icons] https://fontawesome.com/icons -->
+    <link rel="stylesheet" href="~/assets/fonts/fontawesome.css" />
+    <!-- [Material Icons] https://fonts.google.com/icons -->
+    <link rel="stylesheet" href="~/assets/fonts/material.css" />
+    <!-- [Template CSS Files] -->
+    <link rel="stylesheet" href="~/assets/css/style.css" id="main-style-link" />
+
+</head>
+<!-- [Head] end -->
+<!-- [Body] Start -->
+<!-- [ Pre-loader ] start -->
+<div class="loader-bg fixed inset-0 bg-white dark:bg-themedark-cardbg z-[1034]">
+    <div class="loader-track h-[5px] w-full inline-block absolute overflow-hidden top-0">
+        <div class="loader-fill w-[300px] h-[5px] bg-primary-500 absolute top-0 left-0 animate-[hitZak_0.6s_ease-in-out_infinite_alternate]"></div>
+    </div>
+</div>
+
+
+<body>
+    <div class="wrapper">
+        <!-- Main Sidebar Container -->
+        @await Html.PartialAsync("_SideBar")
+        <!-- Preloader -->
+        @await Html.PartialAsync("_Preloader")
+
+        <!-- Navbar -->
+        @await Html.PartialAsync("_NavBar")
+        <!-- /.navbar -->
+        <div class="pc-container">
+            <div class="pc-content">
+                @RenderBody()
+            </div>
+        </div>
+        <footer class="pc-footer">
+            <div class="footer-wrapper container-fluid mx-10">
+                <div class="grid grid-cols-12 gap-1.5">
+                    <div class="col-span-12 sm:col-span-6 my-1">
+                        <p class="m-0"></p>
+                        <a href="https://codedthemes.com/" class="text-theme-bodycolor dark:text-themedark-bodycolor hover:text-primary-500 dark:hover:text-primary-500" target="_blank">CodedThemes</a>
+                    </div>
+                    <div class="col-span-12 sm:col-span-6 my-1 justify-self-end">
+                        <p class="inline-block max-sm:mr-3 sm:ml-2">Distributed by <a href="https://themewagon.com" target="_blank">Themewagon</a></p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- Required Js -->
+        <script src="~/assets/js/plugins/simplebar.min.js"></script>
+        <script src="~/assets/js/plugins/popper.min.js"></script>
+        <script src="~/assets/js/icon/custom-icon.js"></script>
+        <script src="~/assets/js/plugins/feather.min.js"></script>
+        <script src="~/assets/js/component.js"></script>
+        <script src="~/assets/js/theme.js"></script>
+        <script src="~/assets/js/script.js"></script>
+
+        <div class="floting-button fixed bottom-[50px] right-[30px] z-[1030]">
+        </div>
+
+
+        <script>
+            layout_change('false');
+        </script>
+
+
+        <script>
+            layout_theme_sidebar_change('dark');
+        </script>
+
+
+        <script>
+            change_box_container('false');
+        </script>
+
+        <script>
+            layout_caption_change('true');
+        </script>
+
+        <script>
+            layout_rtl_change('false');
+        </script>
+
+        <script>
+            preset_change('preset-1');
+        </script>
+
+        <script>
+            main_layout_change('vertical');
+        </script>
+
+
+</body>
+<!-- [Body] end -->
+<script src="~/assets/js/app.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Pie chart
+        new Chart(document.getElementById("chartjs-dashboard-pie"), {
+            type: "pie",
+            data: {
+                labels: ["Chrome", "Firefox", "IE"],
+                datasets: [{
+                    data: [4306, 3801, 1689],
+                    backgroundColor: [
+                        window.theme.primary,
+                        window.theme.warning,
+                        window.theme.danger
+                    ],
+                    borderWidth: 5
+                }]
+            },
+            options: {
+                responsive: !window.MSInputMethodContext,
+                maintainAspectRatio: false,
+                legend: {
+                    display: false
+                },
+                cutoutPercentage: 75
+            }
+        });
+    });
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Bar chart
+        new Chart(document.getElementById("chartjs-dashboard-bar"), {
+            type: "bar",
+            data: {
+                labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+                datasets: [{
+                    label: "This year",
+                    backgroundColor: window.theme.primary,
+                    borderColor: window.theme.primary,
+                    hoverBackgroundColor: window.theme.primary,
+                    hoverBorderColor: window.theme.primary,
+                    data: [54, 67, 41, 55, 62, 45, 55, 73, 60, 76, 48, 79],
+                    barPercentage: .75,
+                    categoryPercentage: .5
+                }]
+            },
+            options: {
+                maintainAspectRatio: false,
+                legend: {
+                    display: false
+                },
+                scales: {
+                    yAxes: [{
+                        gridLines: {
+                            display: false
+                        },
+                        stacked: false,
+                        ticks: {
+                            stepSize: 20
+                        }
+                    }],
+                    xAxes: [{
+                        stacked: false,
+                        gridLines: {
+                            color: "transparent"
+                        }
+                    }]
+                }
+            }
+        });
+    });
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var markers = [{
+                coords: [31.230391, 121.473701],
+                name: "Shanghai"
+            },
+            {
+                coords: [28.704060, 77.102493],
+                name: "Delhi"
+            },
+            {
+                coords: [6.524379, 3.379206],
+                name: "Lagos"
+            },
+            {
+                coords: [35.689487, 139.691711],
+                name: "Tokyo"
+            },
+            {
+                coords: [23.129110, 113.264381],
+                name: "Guangzhou"
+            },
+            {
+                coords: [40.7127837, -74.0059413],
+                name: "New York"
+            },
+            {
+                coords: [34.052235, -118.243683],
+                name: "Los Angeles"
+            },
+            {
+                coords: [41.878113, -87.629799],
+                name: "Chicago"
+            },
+            {
+                coords: [51.507351, -0.127758],
+                name: "London"
+            },
+            {
+                coords: [40.416775, -3.703790],
+                name: "Madrid "
+            }
+        ];
+        var map = new jsVectorMap({
+            map: "world",
+            selector: "#world_map",
+            zoomButtons: true,
+            markers: markers,
+            markerStyle: {
+                initial: {
+                    r: 9,
+                    strokeWidth: 7,
+                    stokeOpacity: .4,
+                    fill: window.theme.primary
+                },
+                hover: {
+                    fill: window.theme.primary,
+                    stroke: window.theme.primary
+                }
+            },
+            zoomOnScroll: false
+        });
+        window.addEventListener("resize", () => {
+            map.updateSize();
+        });
+    });
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var date = new Date(Date.now() - 5 * 24 * 60 * 60 * 1000);
+        var defaultDate = date.getUTCFullYear() + "-" + (date.getUTCMonth() + 1) + "-" + date.getUTCDate();
+        document.getElementById("datetimepicker-dashboard").flatpickr({
+            inline: true,
+            prevArrow: "<span title=\"Previous month\">&laquo;</span>",
+            nextArrow: "<span title=\"Next month\">&raquo;</span>",
+            defaultDate: defaultDate
+        });
+    });
+</script>
+@RenderSection("Scripts", required: false)

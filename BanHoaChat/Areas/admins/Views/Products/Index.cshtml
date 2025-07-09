@@ -1,0 +1,175 @@
+﻿@model IEnumerable<BanHoaChat.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh Sách Sản Phẩm</h1>
+
+<!-- Search Bar -->
+<div class="mb-4">
+    <div class="input-group w-50">
+        <input type="text" id="searchInput" class="form-control" placeholder="Search by product name..." aria-label="Search">
+    </div>
+</div>
+
+<!-- Create New Button -->
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<!-- Product Table -->
+<table class="table table-striped table-hover table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StockQuantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            <th>Chức Năng</th>
+        </tr>
+    </thead>
+    <tbody id="productTable">
+        @foreach (var item in Model)
+        {
+            <tr id="product-@item.ProductId">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @item.Price.ToString("N0") VNG
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StockQuantity)
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ImageUrl))
+                    {
+                        <img src="@item.ImageUrl" alt="Product Image" style="max-width: 100px; height: auto;" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                    <p>
+                        @if (item.StatusPrice == true)
+                        {
+                            <span class="badge bg-success" style="color:green">Trạng Thái Giá: Hiện</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger" style="color:red">Trạng Thái Giá: Ẩn</span>
+                        }
+                    </p>
+                    
+                    @if (item.Status ==true)
+                    {
+                        <span class="badge bg-success" style="color:green">Trạng Thái SP: Hiện</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger" style="color:red">Trạng Thái SP: Ẩn</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-sm btn-warning">Sửa</a>
+                    <a asp-action="Details" asp-route-id="@item.ProductId" class="btn btn-sm btn-info">Xem</a>
+                    <button class="btn btn-sm btn-danger delete-product" data-id="@item.ProductId">Xóa</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+@section Scripts {
+    <script>
+        function searchTable() {
+            let input = document.getElementById("searchInput").value.toLowerCase();
+            let table = document.getElementById("productTable");
+            let rows = table.getElementsByTagName("tr");
+
+            for (let i = 0; i < rows.length; i++) {
+                let nameCell = rows[i].getElementsByTagName("td")[0];
+                if (nameCell) {
+                    let name = nameCell.textContent || nameCell.innerText;
+                    if (name.toLowerCase().indexOf(input) > -1) {
+                        rows[i].style.display = "";
+                    } else {
+                        rows[i].style.display = "none";
+                    }
+                }
+            }
+        }
+
+        // Trigger search on every keyup event
+        document.getElementById("searchInput").addEventListener("keyup", function() {
+            searchTable();
+        });
+    </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        $(document).ready(function () {
+            $('.delete-product').click(function () {
+                var productId = $(this).data('id');
+                console.log('Attempting to delete product with ID: ' + productId);
+
+                Swal.fire({
+                    title: 'Bạn có chắc chắn?',
+                    text: 'Bạn muốn xóa sản phẩm này?',
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonText: 'Xóa',
+                    cancelButtonText: 'Hủy'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        $.ajax({
+                            url: '@Url.Action("DeleteConfirmed", "Products", new { area = "admins" })',
+                            type: 'POST',
+                            data: { id: productId },
+                            headers: {
+                                'RequestVerificationToken': $('input[name="__RequestVerificationToken"]').val()
+                            },
+                            success: function (result) {
+                                console.log('Ajax success:', result);
+                                if (result.success) {
+                                    $('#product-' + productId).fadeOut(300, function () {
+                                        $(this).remove();
+                                    });
+                                    Swal.fire('Thành công!', 'Sản phẩm đã được xóa.', 'success');
+                                } else {
+                                    Swal.fire('Lỗi!', result.message || 'Không thể xóa sản phẩm.', 'error');
+                                }
+                            },
+                            error: function (xhr, status, error) {
+                                console.log('Ajax error:', xhr, status, error);
+                                Swal.fire('Lỗi!', 'Đã xảy ra lỗi khi xóa sản phẩm: ' + error, 'error');
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}
+@Html.AntiForgeryToken()

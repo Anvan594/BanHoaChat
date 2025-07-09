@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section class="banner">
+    <div id="carouselBanner" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://lab-cuongthinh.com.vn/admin/webroot/uploads/images/HOA-CHAT-DUOC-PHAN-CHIA-THEO-QUY-DINH.jpg" class="d-block w-100" alt="Banner Hóa Chất">
+                <div class="carousel-caption d-none d-md-block">
+                    <h1>Hóa Chất Công Nghiệp Chất Lượng</h1>
+                    <p>Cung cấp hóa chất an toàn, đạt tiêu chuẩn cho mọi ngành công nghiệp</p>
+                    <a href="#products" class="btn">Khám phá sản phẩm</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Featured Products -->
+<section class="featured-products" id="products">
+    <h2 class="mb-4">Sản Phẩm Nổi Bật</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4" id="product-grid">
+        <!-- Sản phẩm sẽ được thêm động bằng JavaScript -->
+    </div>
+</section>
+<section class="why-choose-us">
+    <h2>Tại Sao Chọn Chúng Tôi</h2>
+    <div class="content-wrapper d-flex">
+        <img src="https://www.sochemvn.com/wp-content/uploads/2022/07/Power.jpg" alt="Nhân vật nâng tạ" class="character-img" style="width:350px">
+        <div class="feature-boxes">
+            <div class="row g-3">
+                <div class="col-6">
+                    <div class="feature-box">
+                        <i class="bi bi-award"></i>
+                        <h3>ĐOÀN NGHIỆP HÀNG ĐẦU TRONG LĨNH VỰC HÓA CHẤT CÔNG NGHIỆP</h3>
+                        <p>Là doanh nghiệp trục thủ trong ngành hóa chất công nghiệp tại Việt Nam với nhiều năm kinh nghiệm cung cấp các sản phẩm Xút-Clo hàng đầu tại Việt Nam.</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="feature-box">
+                        <i class="bi bi-cash-stack"></i>
+                        <h3>LỢI LỢI TÀI CHÍNH TỰ DO VÀ CỘNG NGHIỆP</h3>
+                        <p>Chứng tỏ khả năng cạnh tranh của mình với các đối thủ trong ngành hóa chất công nghiệp, mang lại lợi nhuận cao và ổn định.</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="feature-box">
+                        <i class="bi bi-box"></i>
+                        <h3>HỆ THỐNG KHO BỒN HIỆN ĐẠI</h3>
+                        <p>Nâng cao năng lực chứa đựng hóa chất tại các cơ sở sản xuất KCN Bình Dương, Bình Định và KCN Đồng Nai với công nghệ tiên tiến.</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="feature-box">
+                        <i class="bi bi-truck"></i>
+                        <h3>NHÀ MÁY SẢN XUẤT QUY MÔ LỚN</h3>
+                        <p>Với quy mô sản xuất trên 50.000 tấn/năm và kho chứa trên 50.000 tấn hóa chất, chúng tôi đảm bảo đáp ứng mọi nhu cầu của khách hàng trong nước và quốc tế.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- About Section -->
+<section class="about" id="about">
+    <h2 class="mb-4">Về SoChemVN</h2>
+    <p>SoChemVN là nhà cung cấp hóa chất công nghiệp hàng đầu, cam kết mang đến các sản phẩm chất lượng cao, an toàn và thân thiện với môi trường. Chúng tôi phục vụ đa dạng ngành công nghiệp, từ sản xuất, xây dựng đến nghiên cứu khoa học.</p>
+</section>
+<script>
+    // Dữ liệu sản phẩm mẫu (thay thế bằng dữ liệu từ cơ sở dữ liệu)
+    const products = [
+        {
+            id: 1,
+            name: "Axit Sunfuric 98%",
+            price: 1500000,
+            image: "data:image/webp;base64,UklGRtQlAABXRUJQVlA4IMglAADQnwCdASoRAREBPp1Cm0qlo6MnKTN86OATiWVuVDBp+7dJyJ5vRbwH3uta9J4Pj0t7E+l6bP8lvD+dh9MnRG+slvT1qI80P4P9k8ffM/8Y8gOdp1h5k/z79F+efa3/e+A/zH/1vUI9yf73+z+uB973OW+f679nfYa9zvt3/b/xHqr/f/9v0e8QT80fYX/teIT+N/73sFf0b/Hf+D1b/r30r/W3sI/sb1r/3b9oxJwAXyvuMvwoT/O4kvnBZbnxq32yAExmYJBSrHqTeY1GomFmkC4BjdmL4WRLMX0O0MnE9jLjuA9lFE41PgKRF6WXDOe/Oh1HnttrsGDUAbimemrA/mnYGwVToD0y5HEST9ApNOwyISr0pLhlRzWnNC29kpCbWBtPwqqe0SNTHJL/QdPRoMH66GkrhfcYMkvhB6xx2X4UCUUuiHDKhjiA4e94cUWXmm/tQZlI+XqpLEQK38FmUoI+5QhvVXiti2Aha0E+ljC5GR1f7NeKWvwadNP97yqCa9bVo99AhQJ2tTqubFEkjfHSLW6qOdMXIlUuPugA8v2hn2BuEOq9FS0Iney8GVlefSRKasDyZGOTh8MR5XTi460RdVCRt8FndKCj+Qs2jy3il4GCBVWlhftw5sg+AUIATKU0w39lBUlN9N1MplgEug6eC1WI8hIb1ze+cJmfko81E7yJu+DmUPldXmxrPdsJ/m/cuRXFrG1NV6P5HQ++Z3U91P5GhIauZeVD7uGF4XZTZ4K4e65t2Axcekb6SgnSPYgwXPel44BwJkc20z9PjSf/JAvwSCS+uTn1CpKQ3M0RCXURqiP4qkq4sWlJwGmMZfP5e1ZFMZ2T4iEJM90gBHSMSp89fo6lHJIA+V5e2rg5UKutMSjgB2VkNXG+8tTlp3CYXZI21kijIMdDXmp/L7s5vx0pAVd+T2nipkVAstefSbFWgXdssrU+Y+7uk1IxB3IUVcXqopjNrLqMS+6m4gTLiwuBLLRz5RYmRZrf5M55wIIucDZ/5HBHddKq0A8zG2PjQy50NzfjtNbtmhkbVOAXE8rxZpasCuale0HbUdmR72lVlchWeDuEdx5thUPZ5TdLfQjsgYTwVV+tqWfG5tDm/OQZc75MZa5Tn6Kn0VMGzryrpXujJbpL5MNNhWnRhnElHzq0xwz3vGCzmOq5fRNsHq7Rp9ROfwoePBjGlQxotTzGYunA3aX512gDXNQxTofZLsNn5xo+F0UfV6VqH8oAVRt7eHf6xojJrg90zLj10iNIAMgJLrDhdl2dd/O1nTPQR9utIC1jdhv1vVIvNzmBMfHfwPEAtf2XVN1/u77mrkAoWLa8CIGpBQ+yhknOL9EsZD9C360N69pnoaCG9VkCC/5Bj0DMDK5FVGIz8TlmzJ2lX2rRqwnKVy+SK0LvdQofXbxmOad8L2sI1lbw27it7+PdgZj/8sV2ibkfg23zPqPHNDttvVoNthg6QE5cyMaGdDQWOFsyo5lmj9k2Ffx4wet3+D3z60ul5xfXIDfrFgC39oLZ3Py/mACs8/P9jr/YoCBwbyIE/zunGBnQMrqYhiajW6dFu+uku4aBMSvoudQZ8nnFbWdEPrtuMwyA+f9imVvTk98iOlC/fYAZghjewnaG8lTjDKcTuN/VdG9y35pa41aTgH4QJ/paKV3tM1HMU8mTFUCNGOaTlo7k25rEbo1VKkWbzh5R1GOUM148XceFgAAA/vABhu9yP1P79NDsF8YGoUotGZ8x9/zVg7UOenjByntWMVqovde8r17HN2w+NI54cdU6N6apwnAxdNHXrfWGqPUa8e7JA3XYXR6gxKHlVo0k2CZq0OsZJhussx5YBgK8aUnNZSB+U7wEv5LWAXvWgvW268PAVi2QH8/MtUi9fWdT2q1bUfNqqu7VDTH88vBGNCmUWihD3OyjDRq+PX1N1yHkfjcjAVnqaFMcmQE+fvphuqtS+0IKyDxVaDHwBwgXs95h3rhucBxe/UpKAvzMWlYJrLZUAA3YdCiZkq4+ULg5/1W2GNxX77NRMa5zVwbfugARLOTn8sDK7m13w4xxSWNV6WkxD8OPOq9JTMCKF0K2q6zHHquOyIWjGwrl2Iu8w1DBdY1XVXd2akmOkJ/s7rjdano1VdKgFsBp50AHlW+Y7orezNPl4nEbH1M+8I47xGt0tI+BbHgSnoUV4bJcODIHssIA5hwzznYGahU47+riMwL+NlGonhx/2sbsOoG8ZrYohHyxsU8JIBsWzOu5k0F0vwxAOi/K/uVs/2op3080v752iVZ5Ia31RdOe6okZhKubJ64lK6fu0AMm/ABqlL65VtzKK5yP3FL7Xhdz1VVOSC64lgd0dodUKX4tbxd7CxPeG8MuXr8dPD2vM2TtVCcdh8uSf/blX/93R81ngGa88JYqUdpyKVycjkmpTEjC2rYPFxwpq7/Ot7ar56ZKo2N7u+Ot/iCjVb7ni3j1e3D/K2wnOjyiJdtKsoEPg7ndcWAmc3wWVbso11+/xRcuMB3o8PjTdqoX9By3K2d7Y3tZTgvCc+GD/LHVhxYgdXuQUUUczrg6RYc09Uj5NkCuXUuYpJLFp+9TmhgCqugXgLH3BGtTGZD8QDhafYM3jztYxsrHs+ZyOQIf636zd8vYhgJENK6JcgLUzVeR5RoDMHVN+4G2C6z+PeUzPjwcrwpMCJf+PHAs07+cgytbkGoOv39WoyLclmoPQd1sLTL+z+2Id8AIrUcaX+0BtN4u9a7r4KhULXmERo75kcJIiC57vuL3hyao2KVUPWlr6vWz/2oSfwol1wiS4/1bmocLmqubJ4N3cJyXmxNwM5nYXk8sFa1eFMMZgohpQnBAPuby4dQ7hBq1e633KDStHapgXIcrJxjCHQu6Scc2FoHNhP7vO7j1bVqooNHJx394bx3XndsKM0frAzeyezeo38adgTvuek8x1NuH1XSuFDMc50hWTwDG2YWxnRHYVoDC05Km8Aagvc83SvDWl5UNRbCIyCdaCyvK2dunhRMN+nHRZg+1QPmEmLaIjdPTSUP2k4i5+5XgP/6mQArnnDS1HiAfs5SIJT8pfh2RdqmCozi6fUxs7wNE6s6nSAKGH13/3AEi6jHr62fSoPmK+o6ubnVaTnGyqi4T0G0Z5GH7BC7w1XUOMNjQcT7QwrrWaTtevq1Tg6hCNTnpAt8l0oqP9yaLWe2Ew+P/iBf5/5o6up58G+pmZ4+pUCuDtVmSUl/h7OxjgVrtWqShW3uH/yagg1PGyjZhoHiqBoN6ikEJirnyrlBuRglSG7r0Xsxfm7HK40Oa33Y7/7nSW0dGBinXQIRqdyiv7qpR3Ufnegj5IygBblPljZCYAgi+ieOIfJtnIzwomEvYaTmrggxfHTEymjxGZpJ0uMk0OijJlVaFGgSf7l/L7MkioneA3ANX3L6CPRpsszcRBloAmD/KmYSdwXcZ9jTVeLlxo28/6JBthxmyvYjh+DZ3vYsoRtpWOByU1KK4j5gMPgCE3a2U264k9u30Fl+bGm0sOFuD6Jch3reKRW+EY7uAIpPRlmajVCn2/wO9a2C2k11a3oAfDNzTe34ibIgX6T15S+JQ02WGPK2Zj8DvSGRiw1HGM+qbP36bDAKF6iWOxpVhyr/Ii1ylGbRBGPYiooFrU8hWqgITqOF6kTiuzZ9lUmEAsulmxtP2FCp6rvPQCk/WosgtEy4gDgoJolxcY+4oGkXGc5C0LFYd1La50RuAyuDJ0TDGrDmxuH5BW9QpwB8fZ5wfiU7KG7Xk8p6+82NQtl80CKMfxLyP0r//dkbT10aDuJC4sl1hli4VjW74fVtuGMJ0FacAKSHk3kmLGNESlGbYWPi1N0rH2/DZ9kBJSGZcfzkHBKn89T7RM2ntVaRWkmQKZpLohYAK1tkCDIHsdGzxbFwhIV014nLB3eauUpvuCijsZT/6bgq3lEtilAh5z7WMh1Z/rC1Os3X22WRsiwQtLwQ6Oc8IXxvKY2h5ReuSPRDkDvahxTAivQp2w/g0ZYftwmSHKDWoSxnlzlERFbjzeoOgowjYl4IDqaE+5Bs5dR0e0EBMEZ4f1tdAfRYdx8Ow1wPMmX2/JIK0SrwPNPs/Nja1ZYE1Mku+u/l2pHkqDvBj+O4ipUVnuIfNTudEP+8wJ4b0BpXYVStDl3nqu4wVbWavjGpqF+yjtzYItVOLU2J9gBQt+F+EsoYPuF28H7GP+jwhHQKNEflAttMQKisFFHNN40jUcEVT1w+W0T34QxKGiDSdlOPP8XcxDFXv6sSW7ThPaPzl3BjhWNtBrw+4f0YFvQ/Ik/cT/yMXkedQ8u0Gx8H4fENvk0TJH3kC0KoVwC7ikT+pynb8NtQ9Tq89nj7VVcVpSXRL8VdobyzS6SPVrev76F1jbBNRllL44G1j36VldkaoWrZiJbf3YyZ/NSJqpG6FXpWGKX7UqWm3nNPR2frv8eRcdK+tkYJ36M/vbcn2sJZ5yVQm/+x9yn9tZmwdHTh9tsTCE81BAvt1VSRprBk53w6O4grtVBcaBQdmMB7rl4ylRdYidyW2uFGSBCpNERor/G3sZevwXSRrdTHyiOoyJcjdWqdZzjASruPIV7popUhEhdlwoMRMkj7a/q8WmK1oMG6c/5wtPWhA+jHN5qyyWkJb8gGahnFEF/GmfU/hWVS7ZoxFZNwTVvxPC0vEAlLPvCx8AC73OQI3BHm4aJiNzupI3KiyO3j087NLDYeoR5KrRB1jJvDf4h4/hVgT32vJmrkevmgw1Txgo9IPuYZXGA4o+62B3azRpfRk4dfdZGsYFWrsBr6w8wM0nCM0Ajejkt+3tnoxb8q6CExhyS96r82Cfv//nfhff6SWs3irPAWPP9/EUr9XeqTCjYOveAClCqpcLITtJc+9X5nHssH3LkyNkUAfC8dA42pJzg4KzNyUgKCvgx7RK6sHVkXIGLPCX+8CIRUyB4RI+e9Jxj6z+up2EXH3MZPBUfbGfQbOwELfSsbd0+tuA0nwv3b8gFnP+p7wP5NqxfYGxP3kOvdM8JXvdqNz+7U67GMGyU3f//33Y/aXO7luMgd7+u2UnbyoYk5JY8O2iEb1GuSh+kGf7NsjBf2TnSZAVuOk2zuwZPYDyjKQdd+pN4YNn0uBWTaOZquciQ0uOCR/QAqDmCiIdErqGgPzVp7j3yIpXs9Ns/VTJP+ooI9jZGQLaStBBqbWR9gPVyj+RTchdXDPND5nNIj9686Vavmt4T1gTVnuLx9LZ1p/8BsofffjSuztl7jAwZwSx43A+OwL0LF6l9EXaRyM1zaYdZmBmH58cxlgQyXHSWXpfAVrm43PralU4MoVUZrWbFAWnmWdz9yFKQd6IE2mnd+o7rNvHLnyPyhP8NVavTHR8wKtcNJ9/XYUyJ67iKVt0BwOM1irDVp36SDiXUptvPaAIGSg2BdaVGtJGfm2bgj0aUuc9lXXVkOFdPCbrPuZxKgb0g/ivm19WYAag+GIaW6fC7VRdgOkmiw+yZN4Qhm2jrifnv2hBocjG75WBwjkfiEQCIV+0cw9bNJqepcXbTYjAB62qMzyr4ggg5ix8cW0XkwFjD7MQWmxvXp0YGOuY1PTq+zqTfB64pqmsPrjucRHfpOOgsBlkpWKGwAGer8DOZGvGuKe5WyvdGfkshyDAkcQq9xRi3gVtBsI7Wqq2demz+x6cT0mzLEQsfEtP3zD9thc5ShBbf9c5NRBkwKK/kGN5PcpZ7mf846jVdfpNTIawEEzTJ34/4JN5w11YJr2VaesoIzsXG4TAAf/c+upZL5iZju1sjoyIHP/E4VCcyMaMDdc4SONMezNkjGW0Z2KWcDy/CBja1IdcdoqBJuuq2OZiEdQTimYq9H99HA9clfd3UWJO0BGjnXU1ZT/GIqGJ3MSFOCVDX9RE7l7vEOOYLmzqPlnahC+AOjxoW6L6GV/I+OWvLRmahhrxrxKBi20+zK+FlU1l9XiH8c/eWbCZSoyCb4aJLKFYyt0bgEUfPNAlQYxSdrEFR9JqzuZcztvFX/hwKsJX4VmQ93Pdn+RYy88rGNSt7CWpYUwPmcvxJ04dnoMu8RRVylus5tYDwkkFi+CPI0Q5zUJjnjAdnKUFH8qDiPOBMtfwhKJo0aRS2fn0tSA/xffMtMQ35lPayX+Yxdw1khR7ERXt+KaSTbM+k2Nmc8e/4hQ8n7deNPC8t037RASMhoF7GkOkfvk0cNCRoQwidLbB1ehX6FLIHRv/fYRhVwO7RP4EXzj0Rhk77FZuSgiVsWnTRBpzDDzPK3xdySRyD8Tngxe4H5P5iUvjcBHucTfOS4ATYLADXnPrs6kKSAkjq4SIMvSg1VFGoHkgm5HYBUadUarfZmLrtRzgU9Uvmru6Ushm/DwwP9YAJkyfpQXOW4hgov5UqbUKOS1V4+mtXYuypZIC5S5OUa3gpZc5Oe3Q4lC/c2WzRzfN0m6nozztcZuHOJ6hfoT9TEtSfBSgMHzWo0KZL4qxMXfHHpWqCpXQhvxwQAjBdCbMK6D7AplZrkWfq2BVkEV+j7wiP+iILCu7KhMCjeSXkUJueXU6HwYLElq8i5Jwl3bm3Mh0EzpGbk28MJrj+Exj2ta2KAVnzAWnPWRx7nnwISTIGhauB7+b5rLoGA0C+6Te+ghwG+l6BxvBVHw5dNEbsKeMEDkjnmYBc2z1Bmif0YSmcSGwTcBHrlvSZUjFJtJiQlH92gC7vMF/1ZnLGnW/FQAeJAYGFlSxHYLA3U9cTb10TAAB1HYepc1iGNNdqvwzTN34ztrsflEFKEH6cAwqhQBWFSvST1rfWFlpyf/FORC3/dJATTntePM23LhtqqJN70MtFK6CsKWzm7caggjiJbe6ssRoYzye669z8lQqGYvx8boePqQwD6TWz1n94DDm3xMMV+PhaKF8W0L6CR9QG0LY/05L4pgdT8cYJ0O+gjqXMlfGf/K6gwMqH/Gf5tqRHpqCLIbTn9fUhHPrezpae+NvF426E4MRecq3A9n+OtYGErNBQ3ffkaBZmliC+AQ/pJ3o8dwNH71W6NfcqgIscuZDBbedj/il80xVlJpKb5Pd8Dab/nz8Ze0LwI6lzrWJOwiipeMA7XiP6dopszSji7P4Aq7OA5SSC+mG48pmRjhkMrYviINEu+j/VAcc27zL/Of/4CfGib2Vy/JOJSVMOUafajw4v0c7tw4kkV8zYJpsbKwHG15Vao+dNjR1pTmq9T0h5XPgtcj/xmajisB99/Aqzy9hA6iuPnr9RpN3NOf2FQZphTYL01V/p8WXAPjQU6rbh2DDc13s3TNT0qYW/+sZ5I2JahH0HkgcZD//2asu6fCN5RDfCTNbkb8mcwvLTlAYc5haIz1jSK1mTL1s1edVBbOt7JDY9kSgmXZ+ttn9xU6LTuAQNwbjpR5ieMc41amwIJ5lbDiNrQnmFdsXEfF8d58me7w96o5XDvpBMPJ1gjrsax7YKVsXvGe1+GBtlRDwwmaO287TJhqMMmshvDs+0f+MIRHN1YQvkQGetTvyg9Vcbx/meEOV4JjK1j7a+knjDWleaO7GlnITrJKyiQeqZXi1OT8h3hy1lNkm2/YXG8nHB0I0A6T5p4Ptm7D0FaXVXf7JqbGn/uQVlAbJpckoFbKR55KO4mJUzgbfFGqOARVxfliTb/nnJn3yUiKsV4+bVRlu19VN3TTPBeeXrctrAws3H0+zVLZ8APNGCSARoAUjBR/JwqREJom9ecbzwU3doijg7i7psQbMwdTeSG6L2gqxUQDg9hgRsvNHuT7Ci79esq1eEARn/eGUCqVNu5X5bLw8NYm4vE9cA0gusedUD8dlqZR1/l+1FPcWqNYPjQDHlGQfIyploe0io2FIKhW7C/CPsm7yR3FMwKQLSgOe+Ex8HdEqDcqiuCAcS/JqQtINAM56++Ynrc1JtCSU5N4Rsb0HVxIYMMz8ecpffcmjnh6EnRpj6aQe/u80mEq9FYMcrafZ4D18iZYHzyi6EJDn4/+1m/5wzMEzCIcSKn+bDTEsMM/UhTKiWyz4ojMtvEDWwARVlcZHSggLyR5nXALjLcWZO03UwXpcYALISfjxuY4VeZ4Hc3DgGnW2kzwHe/H+/H4Py7KvhS9rMo0LYfi7OW6pdbH3gzeX3LYO+eisc7DDepj+AH736iXJkh19ea5pcYtcbxlfs/98EnYR0TYTJRicdTvi/kfZT5vv8w8O+pBoD8kFaNfAKhHGdWdt8WZ6y+a/rFyHbElJDtxjH4RBsZ3ZkXvLeLn5yFE5wgG2kmD7k5b95Iyjmv9Fq5h0pZrowptoyncw8oEng6wGFyXh67XqSpP4fSRO7BR4qZuRTPMR6iF/YfvnpkccT7jki6FiL5ma9ZnnjNqWQYp+en5TrPGDtRWouZgxN8hUHYnaEOiMemhk2StJE65XKmDxkhA0bm4HbV3iuGzlJv+KCJMmO0sBctVj+NB4aZunHpuV/nguSYwlmawn+tlx0uXRSXNbynxAmm52I6BjA6OrqSmWeRK4/ij1d62yNvaYJXCFmjtDn6+yYSEBHDDYAD1w7rwVuCGbmBlJs+lVkKCus0fi1lZNL8+gbpCwKsO3IUZyMEyPocc54cKpJr2JpbBTnQIo4IIR7PZRoTicCm85L0+jfhfzXEsVayPO8zZq3Rx/YEIbPxaY6CgfaGwmxffskd8M87iTBruIf7/bvdfF4ZIjmUe0HOuRZebtIKw5vF7N5GtDgq2wWQLD6mrlxinjrQA68bIUG6/C0yK4iYnnXV9qouZJisV5Rs5nSVCQb/vvQ/HKJ+V4Uw0OBlYDu67lca5Lke6bESUwk1l50zPe5wesgCBojiU/QrqMv7ksllH6nT8I1BdkxgxkexMDfapYPENgABAJZ+Zb+P7ljFUQMaKT0tGDOvYkXa3tIRzofmlynehnsItRrEAiP/SaNX3fUn2hI//c+W7eVXli7SVtpIw3Jk63nPitPffrfiQZKoZ52z0cegCRJ0qFudgGEIZ60FP13eT7WoBD24JjPUMlHFbKwRw1ABr0CqORUkZ9j/wDWpllQGcT3aDtRgXr6PA7Dbyu06y9jW5PMlMvusdre2wOGoYZQ0Cjp44A4wU6YUrS023k8YtFwJ5XCoLC2LiWAmRJHadMBRar7DkCePcKNDcqvu7qwF/fFxJ06N/2xqIkXBLYMmTghz6HK5JDHILyi+cFAIgAkst0TofQLoUZl6FO9gTj/P2rW8MQ6xjC0Ww7n2Fu7JXwMzbJy/xX2/3vl5OsmBV96pjlvZKxIx+wOYmM0pGqOK8khip/CVuyJvMQLXCcRYA1roBNxIhMfSZCht5sj95KYTjJS94SdsqBc8x7jZVMlzfeO38dVb0+EZsen48rkhHD3wYeBuJ1iN+WDlg8N8Ld94ISNZIBUW5hkF2JP3Aa0TK5XfvWHouGlySLudPPs/ikkaE7vF8I9Gygntypawt7WHmZ/xooj5ZjzJuKFFobh2j2li0yXFi7KV9muDV4L2aJKWZVbEnv+sr4NAmync5fh6HrlWe5PwbNULVlLODPtlRd8QQaOg0I5SrA7u0e9YMqDVfWlSSlZyRkL80m+VlOXdOtTqEI3UyZiRiTI5NcUOnZUZA4tU+bv2rrhwH4DdGM/6lN/G+zD6ubNz7rTPpG5t+TkSewV3TFTPm2GKU6SqF1+gTVbJJ4EPjcWOeAwnacxXynsRC6VEYjZxEzZ8qQkoI8naFhipzj4jsgyYO4ZSYyFtjyaC1/LdpvLwT7hwB5BqFUAbOJdD2Diws2f9s2lWMI/GC7yIRbfMAsFL0a5Rkub6+k7LQpZhL/dIb9OvlYbKOh8EClizhG9TY1050pUSAeCmQP8X/pCKLIe2KTDmOA2y3PZHF6Hv3Gy6YxLtH1A56pwYb0ny0wvmvruyyCyPrYmOh1/y7XkHHibf9LU5tmeI+C7KM5Ax6L3bV/djeZVbzP3Cp+Hz6PJiPa3/5UgfpFcoS/sUwuj0oY2liREjsh0lMqhO/5sEV63fy6A/lfscAWceJq+X59ZzsXcVEx86LZlBjt1Ne586tMTOjlulj2vPL3PT6dSXbmTsTp3e3IpzeOC5GPN6rPsUBrSGiLphPxs/PNPZAeNW150Rx93qf7c8Nu9WY3oMEQLZz49NOy3mHmAiu8IfpCTj7Zeo+u/WM9D6I8H5uA0lr0LHyLYFFyl5Ri01amr2wAq4LJMtT4fYBF0gi46gy99lRfSanB6vFjQSQ7E5eQ6Fz/UpHp3J/dIwu2KAjwM1k/a05JYqk8Ry0mdJG5B5OTa6FDIb4W/PrKkCeLuQ3YvMRxYfwKVPMUwGXqDohzpy/+RixrQSzLCOsYzDYPUty2SfNcRnw/+tV+RvMmHXlex6ARSMb3HV+QPDRL3sfTXUjhe52CT/TFWEWLNpYXkKIRjOuEIumSI4FSJVcvfYAy6pKQ+7EAjbCX1m5i9A0u4rnMIk4OWdGMWxZr+kNJIHO2abmfqwZyUPJtexrxe4Kv9UbkX5Zv5VK7YGd3yJ54xIUfvQKpfhzHxTUxsk0RP76YldVLQ2kOC2VRnPSLBs8Msqlumrv/vrjjF4FU04SEuWrOHz+vK8mO7jKxOZZM90xJM1fExuEIeUmT2rua9rplqZWSVi5C7fQT6rI9cqP5bBYzUmXrbovmHXYAU+ApoMuZmGOVOFNfl7WYqOPiv1XXubTDM4C9Ft79fHyoW3YuMoULDxbsqf6BCZLNsj6w8rptivS5h+fWmS51v5zkT/vOhh5/5rOYiFddqq87bsOcLFnVLYKkP4CVm/U+D7odjhHFteNMiNvMyfY7EBtJGGMVM+ELt2aQJr1RjnnHvnCN6M8s1i2i2g7rr5q0YyKCVQ3OSudNvV7/8DT+q/fMk8FNRpHMNqAc//V1aW3PrisV1qwNQg7c/AXtdPKpVDsyT232uicIutaqVxNXOPcq/Uga0RFrzf1v2nZqjGH31keXnF6FoHyzWRhesK26cG8a8Em17KCMveEF0VA64T/W1kWb74U0Ukety8bYjDpK1z21W9zlRduo8SUvJ8CWSjNGoqWEHLx3E+DhtWn4kdMm6GOriaMHhZrTV6JanJ+cbo8DTxsWPX3tCcalCs6gG+zPcWMVeVatppdNyR9e6LP8GV853ly99C9wk0krtcFmDCvFxP3xSdtCXmxG/fgmbcTX8OptuWkNnpZt1iduRgR2Cz36Md+VoaV1clqZfV6PX+ZJPa5iAdXdHB35H97rKGj9EImZNAIa6BM02Ddu/6rhqRBjhYY1tXCZi7lB8qp2EMFuw/et0RqzEgFw2ALzsZ06kidk7p0FlbhBuI1+MssTJoGNqh7O92kwgxP1oXjtEND7nyOT9Err+FGLVbNs57djc5CsL7zlT+BTAwryxTYhraP/6ud0F2c5TkUru6gXTY9pmZI3MQtyk99Zr7I+Jm+K+lZiCfOPu4N4wimNvwvBidlKHBPLuDB7HHXS05+meFWgUWfval4r6r7nNczOZ4d56fMBJy12ofFLustYAOkOjzfUP1pidZcgVYQwe0Dgh6nRnnsKOocikCmOPmvJ9Bqp98G8UcC7VkbcGFHFbQ6EV+Z0K67JV4uw6SQzbTBLIXRpeEI35anU4gKSizbcR17+am0T7v9rWam2Kq4EyONK4ikATpSMTp24NUMzc/4YQ8HIc2ie+n8qqheLyKCfbtJWSJ553gvqmr2oa8P93VERXg3iyfDSLCnRJVkR9V+6/rKta4dkj+eeL15UmwOeA9GlLQzOIXZS3lrFtYjH4mo7XkaGfZlqR2tA040OYsEJoHWnlOq3AHeGubxKAsQFJwwoCRm4tQB/5xwaOuz7+6APzHe53u/Ek+1jwo7Me22RXLIXNR4WG+IV6lhjQ1IYI8eN484TuDEE2fmk+vvvApRoy0xSoVK7GveFRLTloGzb/SfblkgpPH9yu1L1oIfAYh18vekzAfkf/ONZJVXFY44PdLX8uILOx/kYduB6E7rs/F0v7pRuB7nCRAx1FOvU5kp6vUwkU4xp9Wk3vTO+fHddWh35HEj9bl98a5vMi6XJxuD0Av4HBg4Ay+jBxH3DXR3oHLKxv0pPBBWKuPIqO8EUsdcJtue7SPuQ0yjZa7ZCHwRm+vR4cckyD/TAhPRGqV5gNnEQa/yLXzY4jccrXl2A6UpS4JrONlMyAqsxJPNrjTslcSYlfH0XF4DYf+WZP1gWnz8Un6sv1apaWvQvzi8yoI8qfWS3LhGbhde/+ltf8VaA6rTh82gVdwcH6M2UdYdM6p81ZSo2BgONVTFjt+Y2TWPbgQFWyONeU8kKV9+J0uxkTUuvWmN62al8lea0TVM7og+/deDW7/TH46YxwlciXyu1neDhAd88VktsvciP6s2/zH1cZzH1/HtSDRja+Z6+CBtj9yaOASn466F/0is67Ma6+WGiNfuyLtvwHXiHuXZknKdJKL6zYvTFvdqtej/+b+OSFU0W+xRmA3+ij1pwDbWEStnHqWN9CUHLEAnmJMTaOG5Q+Ij2DaAUk+hNs1dUl1yNLP7BjWY6FLROUAvAT6rrYc/xrg0O+7Cb9iEeS9ltMZLqmJAK0mdpQb4qyXUrpcN6MgFWIziNzkkZJxqK1qLWpgWTZ1Fc+4lIrNcgbNBE7BQfNjml1puwOu2/FgTvk9KG9xXPGelZhxDDEDVB/JEu/3DO9b3qB27Wqm2wSs5x2o5HvBHI9xFU3hMHEB2lzz6WVB/VOvZe15P7tnbhDhZ6ISIAAg+9PRlzkF5EvO/xhVlKR2c3EbIGIDN8ra0pC0xY+tB4NYoSE0BZGnNupSsnJkDO9SlZOS8znO4b55GpW86RFJSj0Hr4QkYzPIglTCqATcguCBjT2tw9g7cGp6agGkAHkkq8BQBQjZ6uDqpXTSMbNAGFoM6amaQNAxQDtXu9k+AfY650dbZoB1RZY33hAA=",
+            details: "Hóa chất công nghiệp, độ tinh khiết 98%, đóng gói 50L"
+        },
+        {
+            id: 2,
+            name: "Natri Hidroxit (Xút)",
+            price: 800000,
+            image: "https://www.sochemvn.com/wp-content/uploads/2020/12/115-1-600x600.jpg",
+            details: "Dạng hạt, dùng trong xử lý nước và sản xuất"
+        },
+        {
+            id: 3,
+            name: "Cồn Ethanol 99%",
+            price: 500000,
+            image: "https://th.bing.com/th/id/OIP.w8d8sEnm2tTKyQ3wGlysgQHaHY?w=201&h=200&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+            details: "Cồn công nghiệp, dùng trong y tế và sản xuất"
+        }
+    ];
+
+    // Hiển thị sản phẩm
+    const productGrid = document.getElementById("product-grid");
+    products.forEach(product => {
+        const productCard = document.createElement("div");
+        productCard.className = "col product-card";
+        productCard.innerHTML = `
+            <div class="card h-100">
+                <img src="${product.image}" class="card-img-top" alt="${product.name}" loading="lazy">
+                <div class="card-body">
+                    <h3 class="card-title">${product.name}</h3>
+                    <p class="card-text price">${product.price.toLocaleString("vi-VN")} VND</p>
+                    <p class="card-text details">${product.details}</p>
+                    <button style="color:#fff" class="btn w-100" onclick="addToCart(${product.id})">Thêm vào giỏ</button>
+                </div>
+            </div>
+        `;
+        productGrid.appendChild(productCard);
+    });
+
+    // Hàm thêm sản phẩm vào giỏ hàng (giả lập)
+    function addToCart(productId) {
+        alert(`Sản phẩm ${productId} đã được thêm vào giỏ hàng!`);
+        // Gửi yêu cầu AJAX đến server để thêm vào bảng Cart_Items
+        // fetch('/api/cart/add', {
+        //     method: 'POST',
+        //     headers: { 'Content-Type': 'application/json' },
+        //     body: JSON.stringify({ product_id: productId, quantity: 1 })
+        // })
+        // .then(response => response.json())
+        // .then(data => alert(data.message))
+        // .catch(error => console.error('Error:', error));
+    }
+</script>

@@ -1,0 +1,1901 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BanHoaChat.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BanHoaChat.pu7hppcrfi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\Images\\Products\\28255f8e-c2bb-4a67-93b3-a4ea513fa150.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\28255f8e-c2bb-4a67-93b3-a4ea513fa150.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\css\\plugins\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\feather.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\feather\\feather.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\feather\\feather.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\feather\\feather.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\feather\\feather.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\inter\\Inter-italic.var.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\inter\\Inter-italic.var.woff2"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\inter\\Inter-roman.var.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\inter\\Inter-roman.var.woff2"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\inter\\inter.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\inter\\inter.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\material.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\material\\material.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material\\material.woff2"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.ttf"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.woff"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\phosphor\\duotone\\selection.json",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\phosphor\\duotone\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\tabler-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-add-user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-add-user.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-bootstrap.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-bulb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-c.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-c.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-course-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-course-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-course-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-3.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-course-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-4.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-course-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-5.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-course-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-6.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-course-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-7.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-course-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-8.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-domain.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-domain.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-payment-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-payment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-payment-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-payment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-php.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-php.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-star.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-star.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-ux.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-ux.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\img-web.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-web.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\p3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\admin\\p5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-cal-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-cal-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-coupon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-coupon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-coupon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-coupon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-coupon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-coupon.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-empty-mail.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-empty-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-event-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-event-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-ai.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-doc.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-doc.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-img.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-imgview.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-imgview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-pdf.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-pdf.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-ppt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-ppt.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-rar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-rar.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-txt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-txt.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-file-xls.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-file-xls.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-pay-card-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-pay-card-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-post-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-post-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-post-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-prod-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-prod-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-prod-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-prod-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-prod-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-prod-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-prod-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-prod-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-profile-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-profile-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-story-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-story-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-story-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-story-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-story-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\img-story-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\application\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\authentication\\img-auth-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\authentication\\img-auth-bg-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\authentication\\img-auth-bg-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\authentication\\lock.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\authentication\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\caption-off.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\caption-off.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\caption-on.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\caption-on.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\color-header.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\color-header.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\compact.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\compact.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\fixed.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\fixed.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\full.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\full.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\horizontal.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\horizontal.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\ltr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\ltr.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\rtl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\rtl.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\customizer\\tab.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\masonry-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\masonry-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\masonry-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\masonry-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\masonry-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\masonry-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\masonry-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\masonry-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\masonry-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\masonry-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\masonry-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\masonry-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\masonry-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\masonry-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\gallery-grid\\masonry-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\masonry-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-10.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-11.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-12.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-3.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-4.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-5.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-6.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-7.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-8.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\app-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\app-9.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-crystal-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-crystal-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-eagames.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-eagames.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-haswent-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-haswent-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-haxter-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-haxter-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-montecito-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-montecito-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-montecito.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-montecito.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-slingshot.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-slingshot.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-totalstudio-5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-totalstudio-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\client-vodafone.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-vodafone.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\collapsed.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\collapsed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\horizontal.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\horizontal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-counter-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-counter-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-header-main.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-header-main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-title-line.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-title-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-w-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-w-1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-w-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-w-2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-w-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-w-3.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-w-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-w-4.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-w-main.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-w-main.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\img-wave.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-wave.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\layout-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\layout-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\layout-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\layout-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tab.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-angular.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-angular.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-bootstrap.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-codeigniter.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-codeigniter.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-django.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-django.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-figma.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-figma.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-flask.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-flask.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-gulp.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-gulp.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-l+v.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-l+v.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-l-b.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-l-b.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-l-v.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-l-v.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-mui.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-mui.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-net.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-net.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-nextjs.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-nextjs.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-nodejs.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-nodejs.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-react-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-react-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-react.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-react.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-svelteKit.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-svelteKit.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-tailwind.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-tailwind.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\tech-vuetify.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-vuetify.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\landing\\vertical.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\vertical.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\layout\\img-profile-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\img-profile-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\layout\\navbar-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\navbar-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\layout\\navbar-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\navbar-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\layout\\navbar-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\navbar-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\layout\\navbar-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\navbar-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\layout\\navbar-img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\navbar-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\layout\\navbar-img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\navbar-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\img-video-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\img-video-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\img-video-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\img-video-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\img-video-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\img-video-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\notification\\clock-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\clock-48.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\notification\\high_priority-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\high_priority-48.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\notification\\medium_priority-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\medium_priority-48.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\notification\\ok-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\ok-48.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\notification\\survey-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\survey-48.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\pages\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\pages\\maintance.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\maintance.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\pages\\sark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\sark.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\pages\\ship.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\ship.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\pages\\sparcle-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\sparcle-1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\pages\\sparcle-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\sparcle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\profile\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\profile\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\profile\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\profile\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\profile\\cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\rating\\star-empty.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-empty.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\rating\\star-full.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\user\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\blur-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\dashborad-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\dashborad-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\dashborad-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\dashborad-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\dashborad-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\dashborad-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\dashborad-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\dashborad-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\dashborad-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\dashborad-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\emoticon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\emoticon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-acitivity-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-acitivity-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-card-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-card-1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-card-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-card-2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-card-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-card-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-card-master.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-card-master.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-dropbox-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-dropbox-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-food.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-food.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-gpay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-gpay.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-headspace.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-headspace.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-helth.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-helth.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-medium.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-medium.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-ola.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-ola.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-phonepay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-phonepay.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-prod-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-prod-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-prod-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-prod-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-round1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-round1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-shoping.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-shoping.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-spotify.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-spotify.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-travel.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-travel.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\img-uber.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-uber.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\master-background.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\master-background.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\master-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\master-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\paypal-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\paypal-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\profile-person1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\profile-person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\rupay-background.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\rupay-background.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\rupay-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\rupay-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\shape1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\shape1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\shape2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\shape2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\shape3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\shape3.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\shape4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\shape4.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\shape5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\shape5.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\shape6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\shape6.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\slider5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\slider6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\slider7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\user-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\user-1.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\user-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\user-2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\user-blur-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\user-blur-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\visa-background.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\visa-background.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\visa-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\visa-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\images\\widget\\welcome-banner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\welcome-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\admin\\course-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\course-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\admin\\dashboard-help.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\dashboard-help.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\admin\\invoice-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\invoice-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\admin\\invoice-list.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\invoice-list.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\admin\\membership-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\membership-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\application\\calendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\application\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\application\\todo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\application\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\canada.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\canada.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\chart-apex.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\chart-apex.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\iraq.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\italy.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\italy.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\map-vector.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\map-vector.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\russia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\russia.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\spain.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\spain.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\us-lcc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\us-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\us-merc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\us-merc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\chart_maps\\us-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart_maps\\us-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\component.js",
+      "PackagePath": "staticwebassets\\assets\\js\\component.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\dashboard\\dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dashboard-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\dashboard\\dashboard-default.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dashboard-default.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\dashboard\\dashboard-finance.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dashboard-finance.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\elements\\ac-alert.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\ac-alert.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\elements\\ac-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\ac-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\elements\\ac-notification.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\ac-notification.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\elements\\ac-rangeslider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\ac-rangeslider.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\elements\\ac-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\ac-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\elements\\ac-tour.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\ac-tour.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\elements\\ac-treeview.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\ac-treeview.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\forms\\form-masking-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\forms\\form-masking-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\forms\\form-validation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\forms\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\forms\\page-croper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\forms\\page-croper.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\icon\\custom-icon.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icon\\custom-icon.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\layout-compact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-compact.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\layout-horizontal.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-horizontal.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\layout-tab.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-tab.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\plugins\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\plugins\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\plugins\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\tech-stack.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tech-stack.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\Chartline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\Chartline.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\Earnings-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\Earnings-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\Stack-age.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\Stack-age.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\Stack-bar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\Stack-bar.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\Statistics-line.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\Statistics-line.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\Statistics-sale.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\Statistics-sale.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\Widget-line-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\Widget-line-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\Widget-line-chart1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\Widget-line-chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\app-sales.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\app-sales.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\bar-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\bar-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\bar-chart1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\bar-chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\bar-chart2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\bar-chart2.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\bar-chart3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\bar-chart3.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\call-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\call-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\cashflow-bar-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\cashflow-bar-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\category-donut-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\category-donut-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\chart-activity.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\chart-activity.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\chart-percent.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\chart-percent.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\chart-percent1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\chart-percent1.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\chart-sale.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\chart-sale.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\chart-statistics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\chart-statistics.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\command-card-chart1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\command-card-chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\device-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\device-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\happy-sad-ball.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\happy-sad-ball.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\line-area2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\line-area2.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\line-chart1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\line-chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\line-chart2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\line-chart2.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\power-card-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\power-card-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\processed-bar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\processed-bar.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\sale-view-second.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\sale-view-second.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\sale-view-third.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\sale-view-third.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\sale-view.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\sale-view.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\sales-render.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\sales-render.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\sitevisite-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\sitevisite-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\total-line-1-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\total-line-1-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\total-line-2-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\total-line-2-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\total-line-3-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\total-line-3-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\transactions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\transactions.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\transactions1-2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\transactions1-2.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\transactions3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\transactions3.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\user-sale-1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\user-sale-1.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\user-sale2-3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\user-sale2-3.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\user-sale4-5.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\user-sale4-5.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\webchart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\webchart.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\js\\widgets\\world-low.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\world-low.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\datatable.column.json",
+      "PackagePath": "staticwebassets\\assets\\json\\datatable.column.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\datatable.json",
+      "PackagePath": "staticwebassets\\assets\\json\\datatable.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\lazy.json",
+      "PackagePath": "staticwebassets\\assets\\json\\lazy.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\root.json",
+      "PackagePath": "staticwebassets\\assets\\json\\root.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\typehead\\countries.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\countries.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\typehead\\movies.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\movies.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\typehead\\nba.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\nba.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\assets\\json\\typehead\\nhl.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\nhl.json"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BanHoaChat.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BanHoaChat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BanHoaChat.props",
+      "PackagePath": "build\\BanHoaChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BanHoaChat.props",
+      "PackagePath": "buildMultiTargeting\\BanHoaChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BanHoaChat.props",
+      "PackagePath": "buildTransitive\\BanHoaChat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
