@@ -309,133 +309,121 @@
 
     /* Responsive styles */
     @@media (max-width: 1200px) {
-        .product-card
-
-    {
-        flex: 0 0 33.333%;
-        max-width: 33.333%;
-    }
-
+        .product-card {
+            flex: 0 0 33.333%;
+            max-width: 33.333%;
+        }
     }
 
     @@media (max-width: 992px) {
-        .banner .carousel-item
-
-    {
-        height: 400px;
-    }
-
-    .banner .carousel-caption {
-        bottom: 50px;
-        padding: 20px;
-    }
-
-        .banner .carousel-caption h1 {
-            font-size: 2.2rem;
+        .banner .carousel-item {
+            height: 400px;
         }
 
-    .product-card {
-        flex: 0 0 50%;
-        max-width: 50%;
-    }
+        .banner .carousel-caption {
+            bottom: 50px;
+            padding: 20px;
+        }
 
-    .products-slider-container {
-        padding: 0 40px;
-    }
+            .banner .carousel-caption h1 {
+                font-size: 2.2rem;
+            }
 
-    .section-header h2 {
-        font-size: 2.4rem;
-    }
+        .product-card {
+            flex: 0 0 50%;
+            max-width: 50%;
+        }
 
-    .section-header p {
-        font-size: 1.2rem;
-    }
+        .products-slider-container {
+            padding: 0 40px;
+        }
 
-    .why-choose-us .content-wrapper {
-        flex-direction: column;
-    }
+        .section-header h2 {
+            font-size: 2.4rem;
+        }
 
-    .why-choose-us .character-img {
-        margin-bottom: 30px;
-    }
+        .section-header p {
+            font-size: 1.2rem;
+        }
 
+        .why-choose-us .content-wrapper {
+            flex-direction: column;
+        }
+
+        .why-choose-us .character-img {
+            margin-bottom: 30px;
+        }
     }
 
     @@media (max-width: 768px) {
-        .section-header h2
+        .section-header h2 {
+            font-size: 2rem;
+        }
 
-    {
-        font-size: 2rem;
-    }
+        .section-header p {
+            font-size: 1.1rem;
+        }
 
-    .section-header p {
-        font-size: 1.1rem;
-    }
+        .product-card {
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
 
-    .product-card {
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
+        .products-slider-container {
+            padding: 0 30px;
+        }
 
-    .products-slider-container {
-        padding: 0 30px;
-    }
+        .why-choose-us, .featured-products, .about {
+            padding: 60px 0;
+        }
 
-    .why-choose-us, .featured-products, .about {
-        padding: 60px 0;
-    }
-
-    .slider-arrow {
-        width: 40px;
-        height: 40px;
-        font-size: 1.2rem;
-    }
-
+        .slider-arrow {
+            width: 40px;
+            height: 40px;
+            font-size: 1.2rem;
+        }
     }
 
     @@media (max-width: 576px) {
-        .banner .carousel-item
-
-    {
-        height: 300px;
-    }
-
-    .banner .carousel-caption {
-        bottom: 20px;
-        padding: 15px;
-    }
-
-        .banner .carousel-caption h1 {
-            font-size: 1.8rem;
+        .banner .carousel-item {
+            height: 300px;
         }
 
-        .banner .carousel-caption p {
+        .banner .carousel-caption {
+            bottom: 20px;
+            padding: 15px;
+        }
+
+            .banner .carousel-caption h1 {
+                font-size: 1.8rem;
+            }
+
+            .banner .carousel-caption p {
+                font-size: 1rem;
+                margin-bottom: 1rem;
+            }
+
+        .products-slider-container {
+            padding: 0 20px;
+        }
+
+        .product-card .card-img-top {
+            height: 180px;
+        }
+
+        .product-card .card-title {
+            font-size: 1.1rem;
+        }
+
+        .product-card .price {
+            font-size: 1.2rem;
+        }
+
+        .slider-arrow {
+            width: 35px;
+            height: 35px;
             font-size: 1rem;
-            margin-bottom: 1rem;
         }
-
-    .products-slider-container {
-        padding: 0 20px;
-    }
-
-    .product-card .card-img-top {
-        height: 180px;
-    }
-
-    .product-card .card-title {
-        font-size: 1.1rem;
-    }
-
-    .product-card .price {
-        font-size: 1.2rem;
-    }
-
-    .slider-arrow {
-        width: 35px;
-        height: 35px;
-        font-size: 1rem;
-    }
-
     }
 </style>
 
@@ -620,10 +608,22 @@
                          loading="lazy">
                     <div class="card-body">
                         <h3 class="card-title">${product.name || 'Sản phẩm không tên'}</h3>
-                        <p class="price">
-                            ${Number.isFinite(discountedPrice) ? discountedPrice.toLocaleString("vi-VN") : 'Liên hệ'}₫
-                            ${discount > 0 && Number.isFinite(price) ? `<span class="old-price">${price.toLocaleString("vi-VN")}₫</span>` : ''}
-                        </p>
+                                       <p class="price">
+            ${
+                Number(product.statusPrice) === 0
+                    ? 'Liên hệ'
+                    : Number.isFinite(discountedPrice)
+                        ? `${discountedPrice.toLocaleString("vi-VN")}₫`
+                        : 'Liên hệ'
+            }
+            ${
+                Number(product.statusPrice) !== 0 && discount > 0 && Number.isFinite(price)
+                    ? `<span class="old-price">${price.toLocaleString("vi-VN")}₫</span>`
+                    : ''
+            }
+        </p>
+
+
                         <p class="card-text">${product.shortDescription || 'Không có mô tả chi tiết'}</p>
                     </div>
                     <div class="card-footer">

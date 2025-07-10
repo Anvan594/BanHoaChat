@@ -23,7 +23,9 @@ public partial class Product
     public DateTime? CreatedAt { get; set; }
     [Display(Name = "Ngày Cập Nhật")]
     public DateTime? UpdatedAt { get; set; }
+    [Display(Name = "Trạng Thái Sản Phẩm")]
     public bool? Status { get; set; } = true;
+    [Display(Name = "Trạng Thái Giá")]
     public bool? StatusPrice { get; set; } = true;
     [Display(Name = "Lượt Xem")]
     public int ViewCount { get; set; } = 0;

@@ -1,0 +1,518 @@
+﻿@{
+    ViewData["Title"] = "Sản phẩm";
+}
+
+<style>
+    .pagination {
+    margin-top: 20px;
+    }
+
+    .page-item.active .page-link {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    }
+
+    .page-link {
+    color: #dc3545;
+    border: 1px solid #dee2e6;
+    padding: 0.375rem 0.75rem;
+    }
+
+    .page-item.disabled .page-link {
+    color: #6c757d;
+    }
+
+    .page-item:not(.active):not(.disabled) .page-link:hover {
+    background-color: #f8f9fa;
+    color: #b02a37;
+    }
+    /* CSS chung */
+    .product-card {
+    position: relative;
+    transition: all 0.3s ease;
+    margin-bottom: 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .product-image-container {
+    position: relative;
+    overflow: hidden;
+    height: 200px;
+    }
+
+    .product-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all 0.3s ease;
+    }
+
+    .product-overlay {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    }
+
+    .product-info {
+    padding: 15px;
+    transition: all 0.3s ease;
+    }
+
+    /* Hiệu ứng khi hover */
+    .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    background-color: rgba(0,0,0,0.4);
+    }
+
+    .product-card:hover .product-overlay {
+    opacity: 1;
+    }
+
+    .product-card:hover .product-image {
+    filter: brightness(0.7);
+    }
+
+    /* Nút thêm vào giỏ hàng */
+    .add-to-cart-btn {
+    background-color: #dc3545;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    opacity: 0;
+    transform: scale(0.8);
+    }
+
+    .product-card:hover .add-to-cart-btn {
+    opacity: 1;
+    transform: scale(1);
+    }
+
+    .add-to-cart-btn:hover {
+    background-color: #c82333;
+    transform: scale(1.1);
+    }
+
+    /* Thông tin sản phẩm */
+    .product-name {
+    font-weight: 600;
+    margin-bottom: 5px;
+    height: 50px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    }
+
+    .product-price {
+    color: #d70018;
+    font-weight: bold;
+    }
+
+    .product-category {
+    color: #6c757d;
+    font-size: 0.9rem;
+    }
+
+    /* Phân trang */
+    .pagination {
+    justify-content: center;
+    margin-top: 20px;
+    }
+
+    .page-item.active .page-link {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    }
+
+    .page-link {
+    color: #dc3545;
+    }
+
+    /* CSS cho mobile (màn hình nhỏ hơn 768px) */
+    @@media (max-width: 767.98px) {
+    .page-link {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    }
+
+    .container {
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+
+    .row {
+    margin-left: -5px;
+    margin-right: -5px;
+    }
+
+    [class*="col-"] {
+    padding-left: 5px;
+    padding-right: 5px;
+    }
+    /* Layout 2 cột trên mobile */
+    .col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    }
+    /* Điều chỉnh card sản phẩm */
+    .product-card {
+    margin-bottom: 10px;
+    }
+
+    .product-image-container {
+    height: 120px;
+    }
+
+    .add-to-cart-btn {
+    width: 40px;
+    height: 40px;
+    }
+
+    .bi-cart-plus {
+    font-size: 20px !important;
+    }
+
+    .product-name {
+    height: 36px;
+    font-size: 0.9rem;
+    margin-bottom: 3px;
+    }
+
+    .product-price {
+    font-size: 0.9rem;
+    }
+
+    .product-category {
+    font-size: 0.8rem;
+    }
+
+    .product-info {
+    padding: 10px;
+    }
+    /* Điều chỉnh bộ lọc */
+    .card-body {
+    padding: 10px;
+    }
+    /* Điều chỉnh header */
+    .d-flex.justify-content-between.mb-4 {
+    flex-direction: column;
+    align-items: flex-start;
+    }
+
+    .d-flex.justify-content-between.mb-4 > div:last-child {
+    margin-top: 10px;
+    width: 100%;
+    }
+    /* Điều chỉnh dropdown sắp xếp */
+    .form-select {
+    width: 100%;
+    font-size: 0.9rem;
+    }
+    }
+
+    /* CSS cho tablet (màn hình từ 768px đến 991px) */
+    @@media (min-width: 768px) and (max-width: 991.98px) {
+    .product-image-container {
+    height: 160px;
+    }
+
+    .product-name {
+    font-size: 1rem;
+    }
+
+    .add-to-cart-btn {
+    width: 50px;
+    height: 50px;
+    }
+    }
+</style>
+
+<div class="container mt-4">
+    <div class="row">
+        <!-- Sidebar lọc -->
+        <div class="col-md-3">
+            <div class="card mb-4">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">Bộ lọc</h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Index" method="get">
+                        <!-- Tìm kiếm -->
+                        <div class="mb-3">
+                            <input type="text" name="searchString" class="form-control"
+                            placeholder="Tìm kiếm..." value="@Context.Request.Query["searchString"]">
+                        </div>
+                        <input type="hidden" name="page" value="1" />
+                        <!-- Lọc danh mục -->
+                        <div class="mb-3">
+                            <h6>Danh mục</h6>
+                            <select name="categoryId" class="form-select">
+                                <option value="">Tất cả</option>
+                                @foreach (var category in ViewBag.Categories)
+                                {
+                                    <option value="@category.CategoryId"
+                                    selected="@(Context.Request.Query["categoryId"] == category.CategoryId.ToString())">
+                                        @category.Name
+                                    </option>
+                                }
+                            </select>
+                        </div>
+
+                        <!-- Lọc giá -->
+                        <div class="mb-3">
+                            <h6>Khoảng giá</h6>
+                            <select name="priceRange" class="form-select">
+                                <option value="">Tất cả</option>
+                                <option value="under100" selected="@(Context.Request.Query["priceRange"] == "under100")">Dưới 100.000đ</option>
+                                <option value="100to500" selected="@(Context.Request.Query["priceRange"] == "100to500")">100.000đ - 500.000đ</option>
+                                <option value="500to1000" selected="@(Context.Request.Query["priceRange"] == "500to1000")">500.000đ - 1.000.000đ</option>
+                                <option value="over1000" selected="@(Context.Request.Query["priceRange"] == "over1000")">Trên 1.000.000đ</option>
+                            </select>
+                        </div>
+
+                        <input type="hidden" name="pageNumber" value="1" />
+                        <button type="submit" class="btn btn-primary w-100">Lọc</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Danh sách sản phẩm -->
+        <div class="col-md-9">
+            <div class="d-flex justify-content-between mb-4">
+                <h4>Sản phẩm</h4>
+                <div>
+                    <select class="form-select" onchange="location = this.value;">
+                        <option value="@Url.Action("Index", new {
+                            searchString = Context.Request.Query["searchString"],
+                            categoryId = Context.Request.Query["categoryId"],
+                            priceRange = Context.Request.Query["priceRange"],
+                            sortOrder = "",
+                            pageNumber = 1
+                        })" selected="@(string.IsNullOrEmpty(Context.Request.Query["sortOrder"]))">
+                            Sắp xếp
+                        </option>
+                        <option value="@Url.Action("Index", new {
+                            searchString = Context.Request.Query["searchString"],
+                            categoryId = Context.Request.Query["categoryId"],
+                            priceRange = Context.Request.Query["priceRange"],
+                            sortOrder = "price_asc",
+                            pageNumber = 1
+                        })" selected="@(Context.Request.Query["sortOrder"] == "price_asc")">
+                            Giá thấp đến cao
+                        </option>
+                        <option value="@Url.Action("Index", new {
+                            searchString = Context.Request.Query["searchString"],
+                            categoryId = Context.Request.Query["categoryId"],
+                            priceRange = Context.Request.Query["priceRange"],
+                            sortOrder = "price_desc",
+                            pageNumber = 1
+                        })" selected="@(Context.Request.Query["sortOrder"] == "price_desc")">
+                            Giá cao đến thấp
+                        </option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row">
+                @foreach (var product in Model)
+                {
+                    <div class="col-md-6 col-lg-4 mb-4">
+                        <div class="product-card" onclick="window.location.href='@Url.Action("Details", new { id = product.ProductId })'">
+                            <div class="product-image-container">
+                                <img src="@(product.ImageUrl ?? "https://via.placeholder.com/300")" class="product-image" alt="@product.Name">
+
+                                <!-- Overlay và nút thêm giỏ hàng -->
+                                <div class="product-overlay">
+                                    <button class="add-to-cart-btn" data-id="@product.ProductId" onclick="event.stopPropagation();addToCart(@product.ProductId)">
+                                        <i class="bi bi-cart-plus" style="font-size:28px"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="product-info">
+                                <h5 class="product-name">@product.Name</h5>
+                                <p class="product-category">@product.Category?.Name</p>
+                                @if (product.StatusPrice == true)
+                                {
+                                    <h6 class="product-price">@product.Price.ToString("N0") đ</h6>
+
+                                }
+                                else
+                                {
+                                    <h6 class="product-price">Liên Hệ</h6>
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <div class="row mt-4">
+                <div class="col-12">
+                    <nav aria-label="Page navigation">
+                        <ul class="pagination justify-content-center">
+                            @{
+                                int currentPage = ViewBag.CurrentPage;
+                                int totalPages = ViewBag.TotalPages;
+                                int range = 2; // Số trang hiển thị hai bên trang hiện tại
+
+                                // Nút Previous
+                                <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                                    <a class="page-link"
+                                       href="@Url.Action("Index", new {
+                               searchString = Context.Request.Query["searchString"],
+                               categoryId = Context.Request.Query["categoryId"],
+                               priceRange = Context.Request.Query["priceRange"],
+                               sortOrder = Context.Request.Query["sortOrder"],
+                               page = currentPage - 1
+                           })">
+                                        &laquo;
+                                    </a>
+                                </li>
+
+                                // Hiển thị các trang
+                                for (int i = 1; i <= totalPages; i++)
+                                {
+                                    // Chỉ hiển thị các trang trong khoảng quanh trang hiện tại
+                                    if (i == 1 || i == totalPages || (i >= currentPage - range && i <= currentPage + range))
+                                    {
+                                        <li class="page-item @(i == currentPage ? "active" : "")">
+                                            <a class="page-link"
+                                               href="@Url.Action("Index", new {
+                                       searchString = Context.Request.Query["searchString"],
+                                       categoryId = Context.Request.Query["categoryId"],
+                                       priceRange = Context.Request.Query["priceRange"],
+                                       sortOrder = Context.Request.Query["sortOrder"],
+                                       page = i
+                                   })">
+                                                @i
+                                            </a>
+                                        </li>
+                                    }
+                                    else if (i == currentPage - range - 1 || i == currentPage + range + 1)
+                                    {
+                                        // Hiển thị dấu "..." để ngăn cách
+                                        <li class="page-item disabled">
+                                            <span class="page-link">...</span>
+                                        </li>
+                                    }
+                                }
+
+                                // Nút Next
+                                <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                                    <a class="page-link"
+                                       href="@Url.Action("Index", new {
+                               searchString = Context.Request.Query["searchString"],
+                               categoryId = Context.Request.Query["categoryId"],
+                               priceRange = Context.Request.Query["priceRange"],
+                               sortOrder = Context.Request.Query["sortOrder"],
+                               page = currentPage + 1
+                           })">
+                                        &raquo;
+                                    </a>
+                                </li>
+                            }
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function updateCartCount() {
+            const email = localStorage.getItem("userEmail");
+            if (!email) return;
+
+            $.ajax({
+                url: '/Cart/GetCartCount',
+                type: 'GET',
+                data: { email: email },
+                success: function (data) {
+                    $('#cart-count-badge').text(data.count);
+                },
+                error: function () {
+                    console.error("Không thể lấy số lượng giỏ hàng.");
+                }
+            });
+        }
+        function generateRandomEmail() {
+            const now = new Date();
+            const dd = String(now.getDate()).padStart(2, '0');
+            const mm = String(now.getMonth() + 1).padStart(2, '0');
+            const yy = String(now.getFullYear()).slice(-2);
+            const datePart = dd + mm + yy;
+
+            const chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
+            let randomPart = '';
+            for (let i = 0; i < 4; i++) {
+                randomPart += chars.charAt(Math.floor(Math.random() * chars.length));
+            }
+
+            const domains = ['gmail.com', 'yahoo.com', 'outlook.com'];
+            const domain = domains[Math.floor(Math.random() * domains.length)];
+
+            return `user${datePart}${randomPart}@@${domain}`;
+        }
+
+        if (!localStorage.getItem('userEmail')) {
+            const email = generateRandomEmail();
+            localStorage.setItem('userEmail', email);
+            console.log('Đã lưu email ngẫu nhiên vào localStorage:', email);
+        } else {
+            console.log('Đã tồn tại email:', localStorage.getItem('userEmail'));
+        }
+
+
+        // Hàm thêm vào giỏ hàng
+        function addToCart(productId) {
+            let email = localStorage.getItem('userEmail');
+            console.log("Email từ localStorage:", email);
+
+            $.ajax({
+                url: '@Url.Action("AddToCart", "Cart")', // Sử dụng Razor để tạo URL chính xác
+                type: 'POST',
+                data: { productId: productId, quantity: 1,email:email },
+                success: function (response) {
+                    if (response.success) {
+                        alert('Đã thêm vào giỏ hàng');
+                        updateCartCount();
+                        $('#cart-count').text(response.cartCount);
+                    } else {
+                        alert('Lỗi: ' + response.message);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    // Xử lý lỗi từ phía server hoặc mạng
+                    let errorMessage = 'Có lỗi xảy ra, vui lòng thử lại';
+                    if (xhr.responseJSON && xhr.responseJSON.message) {
+                        errorMessage = xhr.responseJSON.message;
+                    }
+                    alert(errorMessage);
+                }
+            });
+        }
+    </script>
+}

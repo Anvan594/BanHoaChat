@@ -1,0 +1,71 @@
+﻿@model IEnumerable<BanHoaChat.Models.CartItem>
+@{
+    decimal tongTien = 0;
+}
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Giỏ hàng của bạn đang trống.</div>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table align-middle table-bordered text-center shadow-sm rounded">
+            <thead class="table-dark">
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th>Hình ảnh</th>
+                    <th>Giá</th>
+                    <th>Số lượng</th>
+                    <th>Thành tiền</th>
+                    <th>Xóa</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    var product = item.Product;
+                    decimal thanhTien =0;
+                    if (product.StatusPrice == true)
+                    {
+                        thanhTien = item.Quantity * (product?.Price ?? 0);
+                    }
+
+                    tongTien += thanhTien;
+
+                    <tr data-id="@item.CartItemId">
+                        <td class="text-start">@product?.Name</td>
+                        <td>
+                            <img src="@product?.ImageUrl" width="80" class="rounded shadow-sm" />
+                        </td>
+                        <td>
+                            @if (product.StatusPrice == true)
+                            {
+                                @String.Format("{0:N0} ₫", product?.Price)
+                                ;
+                            }
+                            else
+                            {
+                                <span class="text-danger">Liên hệ</span>
+                            }
+                        </td>
+                        <td>
+                            <button class="btn btn-sm btn-outline-secondary quantity-decrease" data-id="@item.CartItemId">−</button>
+                            <span class="mx-2">@item.Quantity</span>
+                            <button class="btn btn-sm btn-outline-secondary quantity-increase" data-id="@item.CartItemId">+</button>
+                        </td>
+                        <td class="fw-bold text-danger">@String.Format("{0:N0} ₫", thanhTien)</td>
+                        <td>
+                            <button class="btn btn-outline-danger btn-sm remove-item" data-id="@item.CartItemId" title="Xóa sản phẩm">
+                                <i class="bi bi-trash"></i>
+                            </button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex justify-content-end mt-3">
+        <h4 class="text-danger">Tổng tiền: @String.Format("{0:N0} ₫", tongTien)</h4>
+    </div>
+}

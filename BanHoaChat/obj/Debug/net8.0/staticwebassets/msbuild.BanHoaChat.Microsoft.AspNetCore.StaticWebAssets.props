@@ -7380,24 +7380,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\28255f8e-c2bb-4a67-93b3-a4ea513fa150.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>BanHoaChat</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/BanHoaChat</BasePath>
-      <RelativePath>Images/Products/28255f8e-c2bb-4a67-93b3-a4ea513fa150.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b4uy6effmm</Fingerprint>
-      <Integrity>BcWiux1tCUTT50g4HVOLtSBFXHB6YpX55GNOdl05MYI=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\28255f8e-c2bb-4a67-93b3-a4ea513fa150.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\2de477fb-a919-49c9-91b2-7bf33c5535b2.png'))">
       <SourceType>Package</SourceType>
       <SourceId>BanHoaChat</SourceId>
@@ -7416,24 +7398,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\2de477fb-a919-49c9-91b2-7bf33c5535b2.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\443fe7b6-2860-4622-88ed-36ca6daa49f1.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>BanHoaChat</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/BanHoaChat</BasePath>
-      <RelativePath>Images/Products/443fe7b6-2860-4622-88ed-36ca6daa49f1.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4h5pbew1fv</Fingerprint>
-      <Integrity>+Aq8alLcKNwPGXeOYAO5WstTJdhKECqE+2ZvrXTexRk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\443fe7b6-2860-4622-88ed-36ca6daa49f1.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\66ada44b-4edc-4709-aff2-7fad3b921e59.png'))">
       <SourceType>Package</SourceType>
       <SourceId>BanHoaChat</SourceId>
@@ -7451,6 +7415,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\66ada44b-4edc-4709-aff2-7fad3b921e59.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\6f20c0bb-c509-41b1-938d-a1bac1b2bf06.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BanHoaChat</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BanHoaChat</BasePath>
+      <RelativePath>Images/Products/6f20c0bb-c509-41b1-938d-a1bac1b2bf06.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>v8pk0zqvjx</Fingerprint>
+      <Integrity>z4iLb/Dw7oor5iH5104+taSjQRSVfJVo0EI0Gqe2o/U=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\6f20c0bb-c509-41b1-938d-a1bac1b2bf06.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\70068fbe-cc9a-44c9-bf12-7a07e72324d9.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BanHoaChat</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BanHoaChat</BasePath>
+      <RelativePath>Images/Products/70068fbe-cc9a-44c9-bf12-7a07e72324d9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>b4uy6effmm</Fingerprint>
+      <Integrity>BcWiux1tCUTT50g4HVOLtSBFXHB6YpX55GNOdl05MYI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\70068fbe-cc9a-44c9-bf12-7a07e72324d9.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\81973368-d539-4079-a890-2f87360f80b8.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BanHoaChat</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BanHoaChat</BasePath>
+      <RelativePath>Images/Products/81973368-d539-4079-a890-2f87360f80b8.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>73b1ybenil</Fingerprint>
+      <Integrity>nQMiLDDhL7ajnDs7fvrpSOnBkxyGQR8Og2Lg4l9e3gU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\81973368-d539-4079-a890-2f87360f80b8.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\94d7db37-08fe-4bb4-860c-af1a78920fda.jpg'))">
       <SourceType>Package</SourceType>
@@ -7506,23 +7524,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\daa8438c-0729-4573-ae3a-280404bf9f4b.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\dfde378c-717d-4548-aecb-30d92b670cd8.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\e0bb5991-8532-4ed8-81b3-672654a6dff8.png'))">
       <SourceType>Package</SourceType>
       <SourceId>BanHoaChat</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/BanHoaChat</BasePath>
-      <RelativePath>Images/Products/dfde378c-717d-4548-aecb-30d92b670cd8.png</RelativePath>
+      <RelativePath>Images/Products/e0bb5991-8532-4ed8-81b3-672654a6dff8.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b4uy6effmm</Fingerprint>
-      <Integrity>BcWiux1tCUTT50g4HVOLtSBFXHB6YpX55GNOdl05MYI=</Integrity>
+      <Fingerprint>qnfdx9uu4e</Fingerprint>
+      <Integrity>eoqtE8WQ5cupyV15xsDSizUuMmMeHHgq6mR9K83oMY4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\dfde378c-717d-4548-aecb-30d92b670cd8.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\e0bb5991-8532-4ed8-81b3-672654a6dff8.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>

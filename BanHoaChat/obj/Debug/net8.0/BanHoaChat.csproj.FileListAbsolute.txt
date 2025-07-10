@@ -525,3 +525,8 @@ C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\BanHoaChat.p
 C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\BanHoaChat.genruntimeconfig.cache
 C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\ref\BanHoaChat.dll
 C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\obj\Debug\net8.0\BanHoaChat.sourcelink.json
+C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\An\Documents\GitHub\BanHoaChat\BanHoaChat\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

@@ -31,6 +31,7 @@ namespace BanHoaChat.Controllers
                     .Take(8)
                     .Select(p => new
                     {
+                        p.StatusPrice,
                         p.ProductId,
                         p.Name,
                         p.Price,

@@ -153,7 +153,7 @@ namespace BanHoaChat.Areas.admins.Controllers
             try
             {
                 // Chỉ cập nhật các trường cần thiết
-                await TryUpdateModelAsync(product, "", p => p.Name, p => p.Description, p => p.Price, p => p.StockQuantity, p => p.CategoryId);
+                await TryUpdateModelAsync(product, "", p => p.Name, p => p.Description, p => p.Price, p => p.StockQuantity, p => p.CategoryId,p=>p.StatusPrice,p=>p.Status);
 
                 if (ImageFile != null && ImageFile.Length > 0)
                 {

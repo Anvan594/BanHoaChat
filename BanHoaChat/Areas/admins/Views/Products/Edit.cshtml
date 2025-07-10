@@ -59,6 +59,29 @@
                             }
                         </div>
                         <div class="mb-3">
+                            <label asp-for="Status" class="form-label"></label>
+                            <select asp-for="Status" class="form-select">
+                                <option value="true" selected="@Model.Status">Hiện</option>
+                                <option value="false" selected="@(!Model.Status)">Ẩn</option>
+                            </select>
+                            <span asp-validation-for="Status" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="StatusPrice" class="form-label"></label>
+                            <select asp-for="StatusPrice" class="form-select">
+                                <option value="true" selected="@Model.StatusPrice">Hiện</option>
+                                <option value="false" selected="@(!Model.StatusPrice)">Ẩn</option>
+                            </select>
+                            <span asp-validation-for="StatusPrice" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="CategoryId" class="form-label"></label>
+                            <select asp-for="CategoryId" class="form-select" asp-items="ViewBag.CategoryId"></select>
+                            <span asp-validation-for="CategoryId" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
                             <label asp-for="CreatedAt" class="form-label"></label>
                             <input asp-for="CreatedAt" class="form-control" type="datetime-local" readonly />
                             <span asp-validation-for="CreatedAt" class="text-danger"></span>

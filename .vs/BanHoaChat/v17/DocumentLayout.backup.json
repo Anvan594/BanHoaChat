@@ -1,7 +1,80 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\views\\cart\\_cartpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\views\\cart\\_cartpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|c:\\users\\an\\documents\\github\\banhoachat\\banhoachat\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFC4F7A-7732-4DF4-BAB3-2FFE3EC311C3}|BanHoaChat\\BanHoaChat.csproj|solutionrelative:banhoachat\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +99,240 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_CartPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Cart\\_CartPartial.cshtml",
+              "RelativeDocumentMoniker": "BanHoaChat\\Views\\Cart\\_CartPartial.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Cart\\_CartPartial.cshtml",
+              "RelativeToolTip": "BanHoaChat\\Views\\Cart\\_CartPartial.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T08:46:07.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanHoaChat\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "BanHoaChat\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T08:45:17.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Areas\\admins\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Areas\\admins\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Areas\\admins\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BanHoaChat\\Areas\\admins\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:05:13.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BanHoaChat\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAswKUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:32:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Models\\User.cs",
+              "RelativeToolTip": "BanHoaChat\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:27:06.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Models\\CartItem.cs",
+              "RelativeToolTip": "BanHoaChat\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:25:44.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Models\\Cart.cs",
+              "RelativeToolTip": "BanHoaChat\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:25:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Areas\\admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "BanHoaChat\\Areas\\admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Areas\\admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "BanHoaChat\\Areas\\admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T05:34:28.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BanHoaChat\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "BanHoaChat\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAAAJQBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T04:42:21.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "BanHoaChat\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "BanHoaChat\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T04:38:16.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanHoaChat\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "BanHoaChat\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAAAGcBAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T04:37:10.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "BanHoaChat\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwv1gAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T04:36:28.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Areas\\admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Areas\\admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Areas\\admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BanHoaChat\\Areas\\admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAIBJwJsAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:11:56.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Areas\\admins\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BanHoaChat\\Areas\\admins\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Areas\\admins\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "BanHoaChat\\Areas\\admins\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T16:05:53.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BanHoaChat\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:40:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Models\\Product.cs",
+              "RelativeToolTip": "BanHoaChat\\Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:33:48.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanHoaChat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BanHoaChat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T11:30:52.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BanHoaChat\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\BanHoaChat\\BanHoaChat\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BanHoaChat\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T11:30:45.92Z",
+              "EditorCaption": ""
             }
           ]
         }

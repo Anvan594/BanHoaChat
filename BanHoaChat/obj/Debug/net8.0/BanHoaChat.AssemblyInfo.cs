@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BanHoaChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07ce35f1f193c2ec6fd6067b2073fba592e81432")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a81624fde7bcd11a6def08e9f1143b25e326d11")]
 [assembly: System.Reflection.AssemblyProductAttribute("BanHoaChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BanHoaChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

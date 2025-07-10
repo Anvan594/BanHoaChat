@@ -1,4 +1,4 @@
-using BanHoaChat.Models;
+﻿using BanHoaChat.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +12,7 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;  // Cookie b?t bu?c cho session
 });
 builder.Services.AddSession();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Giỏ hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mt-4">🛒 Giỏ hàng của bạn</h2>
+
+<div id="cart-container">
+    <p>Đang tải giỏ hàng...</p>
+</div>
+
+<script>
+    function updateCartCount() {
+            const email = localStorage.getItem("userEmail");
+            if (!email) return;
+
+            $.ajax({
+                url: '/Cart/GetCartCount',
+                type: 'GET',
+                data: { email: email },
+                success: function (data) {
+                    $('#cart-count-badge').text(data.count);
+                },
+                error: function () {
+                    console.error("Không thể lấy số lượng giỏ hàng.");
+                }
+            });
+        }
+    function loadCart() {
+        const email = localStorage.getItem('userEmail');
+        $.post('/Cart/LoadCartByEmail', { email: email }, function (html) {
+            $('#cart-container').html(html);
+        });
+    }
+
+    $(document).on('click', '.quantity-increase', function () {
+        const cartItemId = $(this).data('id');
+        $.post('/Cart/UpdateQuantity', { cartItemId: cartItemId, change: 1 }, function () {
+            loadCart();
+        });
+    });
+
+    $(document).on('click', '.quantity-decrease', function () {
+        const cartItemId = $(this).data('id');
+        $.post('/Cart/UpdateQuantity', { cartItemId: cartItemId, change: -1 }, function () {
+            loadCart();
+        });
+    });
+
+    $(document).on('click', '.remove-item', function () {
+        const cartItemId = $(this).data('id');
+        if (confirm("Bạn có chắc chắn muốn xóa sản phẩm này?")) {
+            $.post('/Cart/RemoveItem', { cartItemId: cartItemId }, function () {
+                updateCartCount();
+                loadCart();
+            });
+        }
+    });
+
+    // Load giỏ hàng ban đầu
+    $(document).ready(function () {
+        loadCart();
+    });
+
+
+    $(document).ready(function () {
+        const email = localStorage.getItem('userEmail');
+
+        if (!email) {
+            $('#cart-container').html("<div class='alert alert-warning'>Không tìm thấy email người dùng.</div>");
+            return;
+        }
+
+        // Gửi AJAX lên controller để lấy giỏ hàng
+        $.ajax({
+            url: '/Cart/LoadCartByEmail',
+            type: 'POST',
+            data: { email: email },
+            success: function (html) {
+                $('#cart-container').html(html);
+            },
+            error: function () {
+                $('#cart-container').html("<div class='alert alert-danger'>Lỗi khi tải giỏ hàng.</div>");
+            }
+        });
+    });
+</script>
